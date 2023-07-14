@@ -20,7 +20,17 @@ Observation:
 * Number of Assets (normalized)
 * Price History with a Window (normalized)
 
+Some of the results:
 | Dataset  | Profit |
 | ------------- | ------------- |
 | IOC  | $13963.10  |
 | NTPC  | $2878.95  |
+| UPL  | $22665.95  |
+| SBIN  | $19313.30  |
+| TCS  | $52458.40  |
+| ITC  | $25706.35 |
+| INFY  | $12698.70  |
+| ADANIPORTS  | $4838.00  |
+| ICICIBANK  | $32205.40  |
+| TATASTEEL  | $18527.10  |
+| HDFC  | $77032.55  |
